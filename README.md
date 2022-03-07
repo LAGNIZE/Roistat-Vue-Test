@@ -1,6 +1,6 @@
 # vue-test
 
-> A Vue.js project
+> A PoisonDrop Junior Frontend Developer test project
 
 ## Build Setup
 
